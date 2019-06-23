@@ -8,3 +8,8 @@ Drill bushing holder.stl is tooling -- use it with 5mm ID drill bushings to cros
 Extruder mount.stl is needed only if you have an MK8-style extruder that did not come with a mounting bracket.
 
 Frame spacer.stl is needed only if you discover at the last minute that your Y-axis smooth rods are about 3mm longer than they should be and they don't fit in the frame.
+
+MKS* files are for mounting MKS-base electronics to the printer frame.
+RAMPS* files are for mounting an Arduino Mega + RAMPS boards to the printer frame.  You only need to print one of these two sets of files, depending on your hardware.
+
+Panel clip.stl is optional, use several of these to attach coroplast sheets to the outside of your frame, if desired.
